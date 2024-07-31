@@ -1,0 +1,20 @@
+kawasaki,ninja636,636
+yamaha,r1,1000
+suzuki,gsxr600,600
+honda,cbr1000rr,1000
+ducati,panigalev2,955
+kawasaki,zx10r,998
+bmw,s1000rr,999
+aprilia,rs660,660
+kawasaki,z900,948
+yamaha,mt07,689
+suzuki,hayabusa,1340
+honda,cbr650r,649
+ducati,monster1200,1198
+kawasaki,zx6r,636
+bmw,r1250gs,1254
+aprilia,tuono660,659
+yamaha,mt09,847
+suzuki,vstrom650,645
+honda,africa twin,998
+ducati,diavel1260,1262
